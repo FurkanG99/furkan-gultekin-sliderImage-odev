@@ -25,4 +25,4 @@ function updateSlide(){
     document.querySelector(".slider").style.transform = 'translateX(' + slideValue + ')';
 }
 
-setInterval (nextImage , 2500)
+setInterval (nextImage , 3500)
