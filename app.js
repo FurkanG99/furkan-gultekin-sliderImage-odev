@@ -26,3 +26,5 @@ function updateSlide(){
 }
 
 setInterval (nextImage , 3500)
+
+
