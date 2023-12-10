@@ -9,6 +9,7 @@ function nextImage(){
         currentStart = 0;
     }
     updateSlide();
+ 
 }
 
 function prevImage(){
@@ -18,6 +19,7 @@ function prevImage(){
         currentStart = allSlide - 1;
     }
     updateSlide();
+
 }
 
 function updateSlide(){
